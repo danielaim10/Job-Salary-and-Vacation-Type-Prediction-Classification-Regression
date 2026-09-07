@@ -24,7 +24,7 @@ The dataset contains job-related records with the following attributes:
 | `vacation` | categorical (target) | Vacation allowance tier |
 | `salary` | numeric (target) | Salary |
 
-> Data files are not included in this repository. See [`data/README.md`](data/README.md) for details on obtaining them.
+> Data files are not included in this repository. See [`data/README.md`](data/data_README.md) for details on obtaining them.
 
 ## Repository Structure
 
