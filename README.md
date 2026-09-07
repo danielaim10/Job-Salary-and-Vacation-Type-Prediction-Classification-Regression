@@ -88,7 +88,7 @@ Detailed per-class metrics, ablation tables, and discussion of the results are a
 git clone <repo-url>
 cd <repo-name>
 pip install -r requirements.txt
-jupyter notebook notebook/tema1_ml.ipynb
+jupyter notebook notebook/Notebook.ipynb
 ```
 
 ## License
